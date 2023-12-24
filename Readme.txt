@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Arsha
-Template URL: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/
+Template Name: Logis
+Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
